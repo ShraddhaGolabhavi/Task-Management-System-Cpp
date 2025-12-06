@@ -44,8 +44,11 @@ It allows users to create tasks, assign them to users, track deadlines, send not
 
 ## 🗂 Project Structure
 Task-Management-System/
+
 │── main.cpp
+
 │── README.md
+
 └── (Any Visual Studio folders)
 
 ---
